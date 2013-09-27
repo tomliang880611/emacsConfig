@@ -1,0 +1,89 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/apple/Downloads/emacs.d-master/lib/" . "nyan-mode/")
+ ("/Users/apple/Downloads/emacs.d-master/" . "lib/")
+ ("/Users/apple/.emacs.d/plugins/" . "git-emacs-master/")
+ ("/Users/apple/.emacs.d/" . "config/")
+ ("/Users/" . "apple/")
+ ("/Users/apple/Downloads/ruby-2.0.0-p247/" . "misc/")
+ ("/Users/apple/Downloads/" . "nyan-mode-master/")
+ ("/Users/apple/Documents/" . "Perl/")
+ ("/Users/apple/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/apple/.emacs.d/"
+ "/Users/apple/Downloads/nyan-mode-master/"
+ "/Users/apple/Downloads/emacs.d-master/lib/nyan-mode/"
+ "/Users/apple/rubyScripts/"
+ "/Users/apple/.emacs.d/config/"
+ "/Users/apple/.emacs.d/plugins/git-emacs-master/"
+ "/Users/apple/"
+ "/Users/apple/.emacs.d/plugins/"
+ "/Users/apple/Downloads/emacs.d-master/"
+ "/Users/apple/Downloads/ruby-2.0.0-p247/misc/"
+ "/Users/apple/Documents/Perl/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "learn001.rb"
+ ".emacs"
+ "testPelsub.pl"
+ "syntax_test.pl"
+ "directory.pl"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/apple/" (21061 42317 0 0) "screenshot.png" "rubyScripts/" "README.org" "Public/" "Pictures/" "perl5/" "nyan-mode.el" "Music/" "Movies/" "Library/" "emacs/" "Downloads/" "Documents/" "Desktop/" "Applications (Parallels)/" "Applications/" ".viminfo" ".Trash/" ".swp" ".subversion/" ".rnd" ".recentf" ".perlbrew/" ".mime.types" ".mailcap" ".irb_history" ".ido.last~" ".ido.last" ".idlerc/" ".emacs~" ".emacs.d/" ".emacs" ".DS_Store" ".cpanm/" ".cpan/" ".CFUserTextEncoding" ".bash_profile~" ".bash_profile" ".bash_history" "../" "./")
+
+ ("/Users/apple/Downloads/nyan-mode-master/" (21061 41784 0 0) "screenshot.png" "README.org" "nyan-mode.el" "img/" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/apple/Downloads/" (21061 41773 0 0) "邮件附件.gif" "行测：数字推理题725道详解.doc" "新建文件夹/" "护照相片.zip" "护照相片 2.zip" "护照相片/" "加亮.zip" "内部学习资料.mp4.td.cfg" "内部学习资料.mp4.td" "健壮肌肉男0223.rm" "Zhaohui Peng.zip" "yahoomessenger_3.0.2build235554.dmg" "X17-45990.dmg" "wkaliedit.dmg" "Windows8-UpgradeAssistant.exe" "Windows7-USB-DVD-tool.exe" "Universal-USB-Installer-1.9.3.6.exe" "softwares/" "SHPlayer_V1.0.pkg" "ruby-2.0.0-p247.tar.gz" "ruby-2.0.0-p247/" "RepairDiscWindows7-64-bit.iso" "QQ2013SP2.exe" "python-3.3.2-macosx10.6.dmg" "PowerISO5.exe" "perldoc.tar.gz" "Perl.Cookbook.2nd.Edition.pdf" "perl-5.18.1.tar.gz" "perl-5.18.1/" "ParallelsDesktop-9.0.23062.920702.dmg" "Parallels Online Store_files/" "Parallels Online Store.html" "nyan-mode-master.zip" "nyan-mode-master/" "master.zip" "emacs.d-master.zip" "emacs.d-master/" "Emacs-PDE-0.2.16.tar.gz" "Emacs-PDE-0.2.16/" "Emacs-24.3-universal-10.6.8.dmg" "download.html" "desktop.ini" "CrossOver-v12-5-0-27173.dmg" "CNTVLivePlugin.dmg" "cn_windows_8_x86_dvd_915414.iso" "CMBSecurityPlugin.dmg" "Automating.System.Administration.with.Perl[2n.pdf" "App-perlbrew-0.66.tar.gz" "App-perlbrew-0.66/" "alicert.dmg" "AKD-73628457812.pdf" "agnc_mac.zip" "agnc_mac.pkg" "ActivePerl-5.16.3.1603-darwin-10.8.0-296746.dmg" "About Downloads.lpdf/" "1-120H0151322.doc" "06_002208.zip" ".localized" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/apple/.emacs.d/" (21061 42274 0 0) "tutorial/" "plugins/" "places" "lib/" "init.el" "elpa/" "config/" "backups/" "auto-save-list/" ".smex-items" "../" "./")
+
+ ("/Users/apple/.emacs.d/config/" (21061 42274 0 0) "twittering-conf.el" "ruby-conf.el" "programming.el~" "programming.el" "platform.el" "org-mode-conf.el" "misc-conf.el" "lisps-conf.el" "ido-conf.el" "cosmetic.el" "clojure-conf.el" "bindings.el" "basic.el" "auto-complete-conf.el" "../" "./")
+
+ ("/Users/apple/Downloads/emacs.d-master/lib/nyan-mode/" (21056 56434 0 0) "../" "./")
+
+ ("/Users/apple/Downloads/emacs.d-master/lib/" (21056 56434 0 0) "tomorrow-theme/" "rainbow-parens.el" "org-mac-link-grabber.el" "nyan-mode/" "highlight.el" "git-wip.el" "eval-sexp-fu.el" "dircolors.el" "color-theme-twilight.el" "color-theme-sanityinc-solarized.el" "../" "./")
+
+ ("/Users/apple/Downloads/emacs.d-master/" (21061 38861 0 0) "README.md" "lib/" "init.el" "elpa/" "config/" ".gitmodules" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/apple/.emacs.d/lib/" (21056 56434 0 0) "tomorrow-theme/" "rainbow-parens.el" "org-mac-link-grabber.el" "nyan-mode/" "highlight.el" "git-wip.el" "eval-sexp-fu.el" "dircolors.el" "color-theme-twilight.el" "color-theme-sanityinc-solarized.el" "../" "./")
+
+ ("/Users/apple/.emacs.d/lib/nyan-mode/" (21056 56434 0 0) "../" "./")
+
+ ("/Users/apple/rubyScripts/" (21061 38179 0 0) "learn001.rb" "../" "./")
+
+ ("/Users/apple/.emacs.d/plugins/git-emacs-master/" (21061 38756 0 0) "Makefile" "git-status.el" "git-modeline.el" "git-log.el" "git-load.el.sample" "git-global-keys.el" "git-emacs.el" "git-emacs-autoloads.el" "git-blame.el" "git--test.el" "docs/" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/apple/.emacs.d/plugins/" (21061 37884 0 0) "ruby-mode-el/" "git-emacs-master/" "../" "./")
+
+ ("/Users/apple/Documents/Perl/" (21046 29246 0 0) "testPelsub.pl~" "testPelsub.pl" "syntax_test.pl~" "syntax_test.pl" "directory.pl~" "directory.pl" ".DS_Store" "../" "./")
+
+ ("/Users/apple/Downloads/ruby-2.0.0-p247/misc/" (21061 34807 0 0) "rubydb3x.el" "rubydb2x.el" "ruby-style.el" "ruby-mode.el" "ruby-electric.el" "ruby-additional.el" "README" "rdoc-mode.el" "rb_optparse.zsh" "rb_optparse.bash" "inf-ruby.el" ".DS_Store" "../" "./")
+
+ ("/Users/apple/Downloads/ruby-2.0.0-p247/" (21061 34796 0 0) "win32/" "vsnprintf.c" "vmtc.inc" "vm_trace.c" "vm_opts.h" "vm_method.c" "vm_insnhelper.h" "vm_insnhelper.c" "vm_exec.h" "vm_exec.c" "vm_eval.c" "vm_dump.c" "vm_debug.h" "vm_core.h" "vm_backtrace.c" "vm.inc" "vm.c" "version.h" "version.c" "variable.c" "util.c" "transdb.h" "transcode_data.h" "transcode.c" "tool/" "timev.h" "time.c" "thread_win32.h" "thread_win32.c" "thread_pthread.h" "thread_pthread.c" "thread.c" "test/" "template/" "symbian/" "struct.c" "string.c" "strftime.c" "st.c" "sprintf.c" "spec/" "sparc.c" "siphash.h" "siphash.c" "signal.c" "sample/" "safe.c" "ruby_atomic.h" "ruby.c" "revision.h" "regsyntax.c" "regparse.h" "regparse.c" "regint.h" "regexec.c" "regerror.c" "regenc.h" "regenc.c" "regcomp.c" "README.ja" "README.EXT.ja" "README.EXT" "README" "re.c" "rational.c" "range.c" "random.c" "process.c" "proc.c" "probes_helper.h" "probes.dmyh" "probes.d" "prelude.rb" "parse.y" "parse.h" "parse.c" "pack.c" "optunifs.inc" "optinsn.inc" "opt_sc.inc" "object.c" "numeric.c" "node_name.inc" "node.h" "node.c" "NEWS" "newline.c" "nacl/" "missing/" "misc/" "miniprelude.c" "method.h" "math.c" "marshal.c" "man/" "Makefile.in" "main.c" "load.c" "lib/" "lex.c.blt" "lex.c" "LEGAL" "KNOWNBUGS.rb" "known_errors.inc" "iseq.h" "iseq.c" "io.c" "internal.h" "insns_info.inc" "insns.inc" "insns.def" "inits.c" "include/" "id.h" "id.c" "ia64.s" "hash.c" "GPL" "goruby.c" "golf_prelude.rb" "golf_prelude.c" "gem_prelude.rb" "gc.h" "gc.c" "file.c" "ext/" "eval_jump.c" "eval_intern.h" "eval_error.c" "eval.c" "error.c" "enumerator.c" "enum.c" "encoding.c" "encdb.h" "enc/" "doc/" "dmyversion.c" "dmyext.c" "dmyencoding.c" "dmydln.c" "dln_find.c" "dln.h" "dln.c" "dir.c" "defs/" "debug.c" "cygwin/" "COPYING.ja" "COPYING" "cont.c" "constant.h" "configure.in" "configure" "complex.c" "compile.c" "compar.c" "common.mk" "class.c" "ChangeLog" "BSDL" "bootstraptest/" "bin/" "bignum.c" "benchmark/" "bcc32/" "array.c" "addr2line.h" "addr2line.c" ".travis.yml" ".revision.time" ".indent.pro" ".gitignore" ".gdbinit" ".editorconfig" ".DS_Store" ".document" "../" "./")
+
+ ("/Users/apple/Documents/" (21049 59684 0 0) "Tencent Files/" "Python/" "Perl/" "Parallels/" "Microsoft 用户数据/" ".parallels-vm-directory/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/apple/.emacs.d/ruby-mode-el/" (21061 32156 0 0) "../" "./")
+
+ ("/Users/apple/emacs/" (21032 44552 0 0) "pde-0.2.16/" ".DS_Store" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/Resources/info/" (20799 63712 0 0) "woman.info.gz" "wisent.info.gz" "widget.info.gz" "viper.info.gz" "vip.info.gz" "url.info.gz" "tramp.info.gz" "srecode.info.gz" "speedbar.info.gz" "smtpmail.info.gz" "sieve.info.gz" "ses.info.gz" "semantic.info.gz" "sc.info.gz" "sasl.info.gz" "remember.info.gz" "reftex.info.gz" "rcirc.info.gz" "pgg.info.gz" "pcl-cvs.info.gz" "org.info.gz" "nxml-mode.info.gz" "newsticker.info.gz" "mh-e.info.gz" "message.info.gz" "mairix-el.info.gz" "info.info.gz" "idlwave.info.gz" "htmlfontify.info.gz" "gnus.info.gz" "forms.info.gz" "flymake.info.gz" "eudc.info.gz" "eshell.info.gz" "ert.info.gz" "erc.info.gz" "epa.info.gz" "emacs.info.gz" "emacs-mime.info.gz" "emacs-gnutls.info.gz" "elisp.info.gz" "eintr.info.gz" "eieio.info.gz" "efaq.info.gz" "edt.info.gz" "ediff.info.gz" "ede.info.gz" "ebrowse.info.gz" "dired-x.info.gz" "dir" "dbus.info.gz" "cl.info.gz" "ccmode.info.gz" "calc.info.gz" "bovine.info.gz" "autotype.info.gz" "auth.info.gz" "ada-mode.info.gz" "../" "./")
+
+ ("/Users/" (20867 19770 0 0) "Shared/" "Guest/" "apple/" ".localized" "../" "./")
+
+ ("/Users/apple/perl5/" (21031 16102 0 0) "perlbrew/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
